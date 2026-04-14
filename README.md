@@ -30,20 +30,13 @@ I enjoy tackling complex problems and continuously improving my skills.
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
-</p>
-
 ---
 
 ### ⚙️ Backend
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle; margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
@@ -52,10 +45,6 @@ I enjoy tackling complex problems and continuously improving my skills.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
