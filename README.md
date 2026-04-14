@@ -35,9 +35,10 @@ I enjoy tackling complex problems and continuously improving my skills.
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://logodix.com/logo/1796970.png" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" alt=".NET Core" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="48" alt="ASP.NET" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="48" alt="Spring Boot" />
 </p>
 
 ---
@@ -45,7 +46,11 @@ I enjoy tackling complex problems and continuously improving my skills.
 ### 🗄 Database & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="Redis" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" />
 </p>
 
 ---
