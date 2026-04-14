@@ -64,11 +64,7 @@ I enjoy tackling complex problems and continuously improving my skills.
 
 * 📞 Phone: +84 915 560 131
 * 📧 Email: huuduc04052004@gmail.com
-* 💼 LinkedIn: [https://www.linkedin.com/in/huu-duc-duong-bba6223b7/](https://www.linkedin.com/in/huu-duc-duong-bba6223b7/)
-* 🌐 Portfolio: [(if any)](https://portfolio-kappa-ebon-6w314q2ka1.vercel.app/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/huu-duc-duong-bba6223b7/)
+* 🌐 [(Portfolio)](https://portfolio-kappa-ebon-6w314q2ka1.vercel.app/)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
-</p>
