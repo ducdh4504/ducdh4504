@@ -36,6 +36,7 @@ I enjoy tackling complex problems and continuously improving my skills.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://logodix.com/logo/1796970.png" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle; margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring" />
 </p>
 
