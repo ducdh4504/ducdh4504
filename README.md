@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Duc;Fullstack+Developer;From+Vietnam" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi👋,+I'm+Duc;Fullstack+Developer;From+Vietnam" />
 </p>
 
 ---
@@ -12,13 +12,6 @@ I am highly adaptable and always eager to keep up with modern technologies and i
 I enjoy tackling complex problems and continuously improving my skills.
 
 💬 Feel free to connect with me! I'm always open to discussing new projects, creative ideas, or opportunities.
-
----
-
-## 🌐 Languages
-
-* 🇬🇧 English (Working proficiency)
-* 🇯🇵 Japanese (N4)
 
 ---
 
@@ -57,6 +50,13 @@ I enjoy tackling complex problems and continuously improving my skills.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="Redis" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" />
 </p>
+
+---
+
+## 🌐 Languages
+
+* English (Working proficiency)
+* Japanese (N4)
 
 ---
 
