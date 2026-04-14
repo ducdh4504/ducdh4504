@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Duc+-+Fullstack+Developer;From+Vietnam;Building+Modern+Web+%26+App;React+%7C+.NET+%7C+Spring+Boot" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Duc;Fullstack+Developer;From+Vietnam" />
 </p>
 
 ---
@@ -56,15 +56,6 @@ I enjoy tackling complex problems and continuously improving my skills.
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
