@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi👋,+I'm+Duc;Fullstack+Developer;From+Vietnam" />
 </p>
 
@@ -67,4 +67,4 @@ I enjoy tackling complex problems and continuously improving my skills.
 * 💼 [LinkedIn](https://www.linkedin.com/in/huu-duc-duong-bba6223b7/)
 * 🌐 [Portfolio](https://portfolio-kappa-ebon-6w314q2ka1.vercel.app/)
 
----
+--- -->
